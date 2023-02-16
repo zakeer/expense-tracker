@@ -1,0 +1,26 @@
+[
+    {
+        "ID": 1,
+        "Category": "Food",
+        "Date": "16-02-2023",
+        "Amount": 168,
+        "Description": "2 Lassies",
+        "PaymentMode": "UPI Payment"
+    },
+    {
+        "ID": 2,
+        "Category": "Shooping",
+        "Date": "16-02-2023",
+        "Amount": 500,
+        "Description": "Buy TShirt",
+        "PaymentMode": "CreditCard"
+    },
+    {
+        "ID": 1,
+        "Category": "Sports",
+        "Date": "16-02-2023",
+        "Amount": 720,
+        "Description": "Book Cricket Ground",
+        "PaymentMode": "Cash"
+    }
+]
